@@ -99,3 +99,20 @@ This project is licensed under the MIT License.
 ⭐ If you find this project useful, feel free to explore the repository and learn from it.
 
 Built with Python and a passion for Mechatronics Engineering.
+
+
+
+
+⸻
+
+Acknowledgement
+
+I sincerely appreciate Mrs. Sumayyah Taiwo for her guidance, encouragement and support throughout this project.
+
+Thank you for the opportunity to learn and apply Python programming to Mechatronics Engineering.
+
+Author
+
+Nweke Emmanuel CHIDERA
+
+ND Mechatronics Engineering Student.
